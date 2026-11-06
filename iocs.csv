@@ -1,0 +1,7 @@
+Type,Value,Description
+Domain,proforma-invoices.com,Phishing Landing Page
+IP,217.182.138.150,Malware Hosting (EXE)
+IP,23.229.162.69,SMTP Exfiltration Server
+IP,66.171.248.178,C2 Heartbeat Server
+Email,sales.del@macwinlogistics.in,Attacker Exfil Destination
+File,tkraw_Protected99.exe,HawkEye Keylogger Payload
